@@ -15,5 +15,6 @@
 
 - This Apps running on port `${localhost}:505` or with domain peasy-ai.test
 - Before Open apps, type `docker-compose up --build cron` to run jobs
+- The jobs running from `App/Console/Commands/DispatchJob` File
 - Wait for 1 minutes, then data will appear in apps.
 
