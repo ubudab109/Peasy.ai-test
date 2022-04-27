@@ -18,3 +18,7 @@
 - The jobs running from `App/Console/Commands/DispatchJob` File
 - Wait for 1 minutes, then data will appear in apps.
 
+## SCRENSHOOT OF APPS
+![image](https://user-images.githubusercontent.com/62287144/165440315-d9505953-caa0-4413-aa76-c26254c1c399.png)
+
+
